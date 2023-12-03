@@ -36,3 +36,9 @@ The application incorporates media queries in the style.css file to ensure a res
 Contributing
 
 Contributions to the Weather Application are welcome! Feel free to open issues or pull requests to suggest improvements, report bugs, or add new features.
+
+![image](https://github.com/sainath161/WeatherAPI/assets/71361447/882ff256-794a-42f7-a69d-d1ce0c0ed2b1)
+
+![image](https://github.com/sainath161/WeatherAPI/assets/71361447/0f6dbde8-1fb2-4914-896b-06b690f1494c)
+
+![image](https://github.com/sainath161/WeatherAPI/assets/71361447/96d920e3-6007-41f7-a043-7c8225c171cc)
